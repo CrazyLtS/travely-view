@@ -1,0 +1,27 @@
+{
+    "ret": true,
+    "data": {
+        "sightName": "自由行 云南丽江+大理4日自由行|省心包车游|专属用车|2晚特色客栈+升级1晚海房",
+        "bannerImg": "https://img1.qunarzz.com/vs_ceph_vs_tts/dbab2e66-bf6b-4b77-ab09-85adc727ff45.png_r_640x420x95_a3866759.png",
+        "gallaryImgs": ["https://img1.qunarzz.com/vs_ceph_vs_tts/dbab2e66-bf6b-4b77-ab09-85adc727ff45.png_r_640x420x95_a3866759.png",
+        "https://img1.qunarzz.com/p/p70/1809/e7/4941057a6aae702.jpg",
+        "https://img1.qunarzz.com/p/p48/201302/28/e9603bf3a8f7fbfd93835fbb.jpg",
+        "https://img1.qunarzz.com/vs_ceph_vs_tts/f16c2963-7cb0-4700-bd09-3d8a6a0f16b7.jpg_r_1280x840x95_1e3f145c.jpg",
+        "https://img1.qunarzz.com/p/tts2/1508/10/c3d89891e36572.jpg_r_1280x840x95_e49130a4.jpg"],
+        "categoryList": [
+            {"title": "成人票",
+              "children": [
+                {"title": "一类票",                  "children": [                  {"title": "一类票"},
+                    {"title": "二类票"},
+                    {"title": "三类票"}
+                  ]},
+                {"title": "二类票"},
+                {"title": "三类票"}
+              ]
+            },
+            {"title": "学生票"},
+            {"title": "儿童票"},
+            {"title": "特惠票"}
+          ]
+    }
+}

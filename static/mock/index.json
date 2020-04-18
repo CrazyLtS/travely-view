@@ -1,0 +1,90 @@
+{
+    "ret": true,
+    "data": {
+        "swiperList": [{
+            "id": "0001",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1606/68/68d9a1387d0fb3e090.water.jpg_375x170_c1fcecf1.jpg"
+        }, {
+            "id": "0002",
+            "imgUrl": "https://imgs.qunarzz.com/vc/e3/a1/71/f498dfd3bed948d623c9093252.jpg_92.jpg"
+        }],
+        "iconList": [{
+            "id": "0001",
+            "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/hotel.png",
+            "desc": "酒店"
+          }, {
+            "id": "0002",
+            "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/flight.png",
+            "desc": "机票"
+          }, {
+            "id": "0003",
+            "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/train.png",
+            "desc": "火车票"
+          }, {
+            "id": "0004",
+            "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/package.png",
+            "desc": "度假"
+          }, {
+            "id": "0005",
+            "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/piao.png",
+            "desc": "景点门票"
+          }, {
+            "id": "0006",
+            "imgUrl": "https://picbed.qunarzz.com/f5e5770393d759578962e53ee67798c8.png",
+            "desc": "海外酒店"
+          }, {
+            "id": "0007",
+            "imgUrl": "https://picbed.qunarzz.com/a36d2288f19e54562338f4d8ef986288.png",
+            "desc": "低价机票"
+          }, {
+            "id": "0008",
+            "imgUrl": "https://picbed.qunarzz.com/377db8cb2143aebf01869c9baad3d325.png",
+            "desc": "汽车票"
+          }, {
+            "id": "0009",
+            "imgUrl": "https://picbed.qunarzz.com/ae617a31e0bd5803d76918b817f6d942.png",
+            "desc": "自由行"
+          }, {
+            "id": "0010",
+            "imgUrl": "https://picbed.qunarzz.com/1316dc82d1ce6259686d5a68880e5a9d.png",
+            "desc": "攻略"
+          }],
+        "recommendList": [{
+            "id": "0001",
+            "imgUrl": "https://imgs.qunarzz.com/p/p29/201302/28/3d20251a1b60350a93835fbb.jpg_256x160_e8f468b0.jpg",
+            "title": "广州-日本",
+            "desc": "含往返飞机票(包税)，6晚住宿"
+        }, {
+            "id": "0002",
+            "imgUrl": "https://imgs.qunarzz.com/p/p27/201302/28/d14185ac8a47f6f993835fbb.jpg_256x160_c2ab9336.jpg",
+            "title": "广州-张家界",
+            "desc": "含往返火车票，4晚住宿"
+        }, {
+            "id": "0003",
+            "imgUrl": "https://imgs.qunarzz.com/p/p48/201302/28/bc44faa497db0dcf93835fbb.jpg_256x160_0ba13461.jpg",
+            "title": "广州-泰国",
+            "desc": "含往返飞机票，5晚住宿"
+        }, {
+            "id": "0004",
+            "imgUrl": "https://imgs.qunarzz.com/p/p14/201302/28/218ac6605f1d637f93835fbb.jpg_256x160_bfee6c2d.jpg",
+            "title": "广州-桂林",
+            "desc": "含往返飞机票，9晚住宿"
+        }],
+        "weekendList": [{
+            "id": "0001",
+            "imgUrl": "https://imgs.qunarzz.com/vc/44/e9/86/95bc36c9e1c06ebd68bdfe222e.jpg_92.jpg",
+            "title": "欧洲河流",
+            "desc": "欧洲是世界上的无敌大河，虽然这是我自己编的，但是筹字数还是可以的。"
+        }, {
+            "id": "0002",
+            "imgUrl": "https://imgs.qunarzz.com/vc/6d/9f/35/b8ad5468f73fd60ec0ced086f6.jpg_92.jpg",
+            "title": "世界梦号 官方直营",
+            "desc": "世界梦号位于泰山之巅，是为了筹字数，作者乱编的，不要相信他。"
+        }, {
+            "id": "0003",
+            "imgUrl": "https://imgs.qunarzz.com/vc/e3/a1/71/f498dfd3bed948d623c9093252.jpg_92.jpg",
+            "title": "水墨之镇",
+            "desc": "】】水墨之镇是一个书香满溢的城镇，它的魅力足以然世界上的文人疯狂，但却无人知道所在之地。"
+        }]
+    }
+}

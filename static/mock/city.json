@@ -1,0 +1,160 @@
+{
+   "data": {
+    "hotCities": [
+        {"id": "001", "name": "北京", "spell": "beijing"},
+        {"id": "002", "name": "上海", "spell": "shanghai"},
+        {"id": "003", "name": "深圳", "spell": "shenzhen"},
+        {"id": "004", "name": "广州", "spell": "guangzhou"},
+        {"id": "005", "name": "厦门", "spell": "xiamen"},
+        {"id": "006", "name": "海南", "spell": "hainan"}
+    ],
+    "cities": {
+        "A": [
+            {"id": "a001", "name": "鞍山", "spell": "anshan"},
+            {"id": "a002", "name": "阿拉善", "spell": "alashan"},
+            {"id": "a003", "name": "安康", "spell": "ankang"},
+            {"id": "a004", "name": "阿克苏", "spell": "akesu"},
+            {"id": "a005", "name": "阿勒泰", "spell": "aletai"},
+            {"id": "a006", "name": "阿拉尔", "spell": "alaer"},
+            {"id": "a007", "name": "澳门", "spell": "aomen"},
+            {"id": "a008", "name": "安阳", "spell": "anyang"}
+        ],
+        "B": [
+            {"id": "b001", "name": "北京", "spell": "beijing"},
+            {"id": "b002", "name": "白城", "spell": "baicheng"},
+            {"id": "b003", "name": "白山", "spell": "baishan"},
+            {"id": "b004", "name": "保定", "spell": "baoding"},
+            {"id": "b005", "name": "包头", "spell": "baotou"},
+            {"id": "b006", "name": "宝鸡", "spell": "baoji"},
+            {"id": "b007", "name": "北海", "spell": "beihai"},
+            {"id": "b008", "name": "百色", "spell": "baise"},
+            {"id": "b009", "name": "巴中", "spell": "bazhong"}
+        ],
+        "C": [
+            {"id": "c001", "name": "重庆", "spell": "chongqing"},
+            {"id": "c002", "name": "长春", "spell": "changchun"},
+            {"id": "c003", "name": "朝阳", "spell": "chaoyang"},
+            {"id": "c004", "name": "池州", "spell": "chizhou"},
+            {"id": "c005", "name": "潮州", "spell": "chaozhou"},
+            {"id": "c006", "name": "澄迈", "spell": "chengmai"},
+            {"id": "c007", "name": "楚雄", "spell": "chuxiong"},
+            {"id": "c008", "name": "常德", "spell": "changde"},
+            {"id": "c009", "name": "昌都", "spell": "changdu"},
+            {"id": "c010", "name": "滁州", "spell": "chuzhou"},
+            {"id": "c011", "name": "崇左", "spell": "chongzuo"}
+        ],
+        "D": [
+            {"id": "d001", "name": "大庆", "spell": "daqing"},
+            {"id": "d002", "name": "大连", "spell": "dalian"},
+            {"id": "d003", "name": "丹东", "spell": "dandong"},
+            {"id": "d004", "name": "大同", "spell": "datong"},
+            {"id": "d005", "name": "德州", "spell": "dezhou"},
+            {"id": "d006", "name": "东营", "spell": "dongying"},
+            {"id": "d007", "name": "定西", "spell": "dingxi"},
+            {"id": "d008", "name": "达州", "spell": "dazhou"},
+            {"id": "d009", "name": "德阳", "spell": "deyang"},
+            {"id": "d010", "name": "东莞", "spell": "dongguan"},
+            {"id": "d011", "name": "东沙群岛", "spell": "donshaqundao"},
+            {"id": "d012", "name": "大兴安岭", "spell": "daxinganling"}
+        ],
+        "E": [
+            {"id": "e001", "name": "鄂尔多斯", "spell": "eerduosi"},
+            {"id": "e002", "name": "鄂州", "spell": "ezhou"},
+            {"id": "e003", "name": "恩施", "spell": "enshi"},
+            {"id": "e004", "name": "阿坝", "spell": "aba"}
+        ],
+        "F": [
+            {"id": "f001", "name": "抚顺", "spell": "fushun"},
+            {"id": "f002", "name": "阜新", "spell": "fuxin"},
+            {"id": "f003", "name": "阜阳", "spell": "fuyang"},
+            {"id": "f004", "name": "福州", "spell": "fuzhou"},
+            {"id": "f005", "name": "抚州", "spell": "fuzhou"},
+            {"id": "f006", "name": "佛山", "spell": "fuoshan"},
+            {"id": "f007", "name": "防城港", "spell": "fangchenggang"}
+        ],
+        "G": [
+            {"id": "g001", "name": "果洛", "spell": "guoluo"},
+            {"id": "g002", "name": "甘南", "spell": "gannan"},
+            {"id": "g003", "name": "固原", "spell": "guyuan"},
+            {"id": "g004", "name": "赣州", "spell": "ganzhou"},
+            {"id": "g005", "name": "贵阳", "spell": "guiyang"},
+            {"id": "g006", "name": "广安", "spell": "guangan"},
+            {"id": "g007", "name": "广元", "spell": "guangyuan"},
+            {"id": "g008", "name": "桂林", "spell": "guilin"},
+            {"id": "g009", "name": "贵港", "spell": "guigang"},
+            {"id": "g010", "name": "广州", "spell": "guangzhou"}
+        ],
+        "H": [
+            {"id": "h001", "name": "哈尔滨", "spell": "haerbin"},
+            {"id": "h002", "name": "黑河", "spell": "heihe"},
+            {"id": "h003", "name": "鹤岗", "spell": "hegang"},
+            {"id": "h004", "name": "葫芦岛", "spell": "huludao"},
+            {"id": "h005", "name": "呼和浩特", "spell": "huhehaote"},
+            {"id": "h006", "name": "呼伦贝尔", "spell": "hulunbeier"},
+            {"id": "h007", "name": "哈密", "spell": "hami"},
+            {"id": "h008", "name": "海东", "spell": "haidong"},
+            {"id": "h009", "name": "海北", "spell": "baibei"},
+            {"id": "h010", "name": "海西", "spell": "haixi"},
+            {"id": "h011", "name": "淮安", "spell": "huaian"},
+            {"id": "h012", "name": "黄冈", "spell": "huanggang"},
+            {"id": "h013", "name": "黄石", "spell": "huangshi"},
+            {"id": "h014", "name": "淮北", "spell": "huaibei"},
+            {"id": "h015", "name": "黄山", "spell": "huamgshan"},
+            {"id": "h016", "name": "怀化", "spell": "huaihua"},
+            {"id": "h017", "name": "海口", "spell": "haikou"},
+            {"id": "h018", "name": "红河", "spell": "honghe"}
+        ],
+        "J": [
+            {"id": "j001", "name": "佳木斯", "spell": "jiamusi"},
+            {"id": "j002", "name": "鸡西", "spell": "jixi"},
+            {"id": "j003", "name": "吉林", "spell": "jilin"},
+            {"id": "j004", "name": "晋中", "spell": "jinzhong"},
+            {"id": "j005", "name": "金昌", "spell": "jinchang"},
+            {"id": "j006", "name": "荆州", "spell": "jingzhou"},
+            {"id": "j007", "name": "嘉兴", "spell": "jiaxing"},
+            {"id": "j008", "name": "金华", "spell": "jinhua"},
+            {"id": "j009", "name": "江门", "spell": "jiangmen"}
+        ], 
+        "K": [
+            
+        ],
+        "L": [
+            
+        ],
+        "M": [
+            
+        ],
+        "N": [
+           
+        ],
+        "P": [
+            
+        ],
+        "Q": [
+            
+        ],
+        "R": [
+           
+        ],
+        "S": [
+            
+        ],
+        "T": [
+            
+        ],
+        "W": [
+           
+        ],
+        "X": [
+            
+        ],
+        "Y": [
+            
+        ],
+        "Z": [
+            
+        ]
+    }
+   },
+   "ret": true
+}
